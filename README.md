@@ -26,7 +26,7 @@ EOF
 
 **Or use the setup script:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/clarsbyte/washedmcp/main/setup-claude.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Lishang25/washedmcp/main/setup-claude.sh | bash
 ```
 
 ---
@@ -78,7 +78,7 @@ One search -> full context -> immediate action.
 
 ### One-liner (recommended)
 ```bash
-curl -fsSL https://raw.githubusercontent.com/clarsbyte/washedmcp/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Lishang25/washedmcp/main/install.sh | bash
 ```
 Restart Claude Code. Done.
 
