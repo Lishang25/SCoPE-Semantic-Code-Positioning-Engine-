@@ -1,6 +1,6 @@
 # CLAUDE.md — WashedMCP Token Optimization System
 
-This file provides essential context for AI agents working on this project
+This file provides essential context for AI agents working on this project.
 
 ---
 
