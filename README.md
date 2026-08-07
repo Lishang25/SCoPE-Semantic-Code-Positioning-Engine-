@@ -70,6 +70,6 @@ kubectl -n washedmcp port-forward svc/washedmcp 8080:8080
 
 | | Minimum | Recommended |
 |---|---------|-------------|
-| Memory | 512MB | 2GB |
+| Memory | 512MB | 3GB |
 | CPU | 0.25 cores | 1 core |
 | Disk | 1GB | 10GB |
